@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'WWPHacks'
+cover: './project2.png'
+github: 'https://github.com/ansh2/wwphacks.github.io/'
+external: 'https://wwphacks22.github.io/wwphacks.github.io/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - HTML
+  - CSS
+  - Javascript
+  - GitHub Pages
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app for a high school hackathon with over 410 total participants and 81 impactful projects.

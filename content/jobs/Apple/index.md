@@ -1,13 +1,15 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Data Analyst & Back End Developer'
+company: 'Indiana Soybean Alliance'
+location: 'West Lafayette, IN'
+range: 'Aug 2023 - Present'
+url: 'https://incornandsoy.org/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Crafted all-encompassing web-scraping platform in Python and ReactJS for the Indiana Soybean Alliance.
+- Analyzed 5+ million acres of geo-spatial data and established locations of 20+ programs across the state of Indiana with
+  our interactive map using ArcGIS cloud mapping, resulting in 40% increased efficiency of time spent by farmers.
+- Architected backend functionality through Django for analysis on crop data to optimization the locations of listing.
+- Fine-tuned scraping methodologies for 65% increased application utilization through SQLite database.
+- Synchronized programs through Pandas and deployed website in Streamlit to embed into main company website.
