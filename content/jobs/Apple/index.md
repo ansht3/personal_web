@@ -7,9 +7,6 @@ range: 'Aug 2023 - Present'
 url: 'https://incornandsoy.org/'
 ---
 
-- Crafted all-encompassing web-scraping platform in Python and ReactJS for the Indiana Soybean Alliance.
-- Analyzed 5+ million acres of geo-spatial data and established locations of 20+ programs across the state of Indiana with
-  our interactive map using ArcGIS cloud mapping, resulting in 40% increased efficiency of time spent by farmers.
-- Architected backend functionality through Django for analysis on crop data to optimization the locations of listing.
-- Fine-tuned scraping methodologies for 65% increased application utilization through SQLite database.
-- Synchronized programs through Pandas and deployed website in Streamlit to embed into main company website.
+- Collaborated with Indiana Soybean Alliance to craft an all-encompassing platform in Python and ReactJS that fetches various programs through online sources to be a one-stop-place for all farmers across the state of Indiana and beyond.
+- Researched over 5+ million acres of geo-spatial data to scrape onto a SQL database and analyzed aspects of data with the OpenAI GPT-3.5 API such as crop type, price, county, and forms required to determine effective locations of programs.
+- Synchronized those programs with the backend part of the application using Pandas, Django, and Splite.
