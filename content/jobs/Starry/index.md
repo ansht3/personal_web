@@ -7,6 +7,6 @@ range: 'May 2022 - Aug 2023'
 url: 'https://www.codeninjas.com/'
 ---
 
-- Taught classes of 35+ students ages 7-16 on rudimentary programming skills through Scratch, JavaScript, C#, and Unity.
-- Designed a 6-week long curriculum on engineering skills in Python and graded projects with constructive feedback.
-- Coached and mentored FLL robotics team of 20+ individuals in building and testing robots: won 3+ regional awards.
+- Led classes of students ages 7-16 to learn rudimentary programming and engineering skills through Python and robotics.
+- Taught students game development courses in Scratch, JS, & Unity, and graded their projects with constructive feedback.
+- Coached and mentored FLL robotics team of 20+ individuals in building and testing robots: won several regional awards.
