@@ -7,8 +7,6 @@ range: 'Sep 2023 - Present'
 url: 'https://flask-production-0003.up.railway.app/'
 ---
 
-- Developing an integrated paper-trading with 25% less latency as competitors to generate most profitable portfolios by
-  accurately predict future stock prices and proper allocation of capital based on deep reinforcement learning algorithms.
-- Constructed Monte Carlo model with 96% accuracy and trained Long Short-Term Memory (LSTMs) neural network.
-- Incorporated Financial Bert and Bart for sentiment analysis of top 10 news articles and currently creating a real-time trader
-  workstation by constantly updating SQL database through RESTful Flask API scripts in Python.
+- Developing an integrated paper-trading and portfolio generation platform for user queries to accurately predict future stock prices and proper allocation of capital based on user-selected stock with various regression models/neural networks.
+- Implemented the First-Visit Monte Carlo method to determine frequency and expected price with daily average values.
+- Employed open-source API’s (GPT-4, YFinance) and LLMs for sentiment analysis for news articles and currently working on creating trader workstation integrating Django and Flask API to simulate real-time trading with a SQL database.
