@@ -7,7 +7,6 @@ range: 'Feb 2023 - Oct 2023'
 url: 'https://www.ziplyne.com/'
 ---
 
-- Refactored legacy React components with 300+ lines of new code to add dynamic functionality for language support.
-- Improved code template to reduce codebase by 20% on Ziplyne workday application to support modular testing with the
-  Digital Adoption Platform (DAP) on Microsoft Dynamics 365, Coupa, Kronos, and SAP.
-- Created video demo that resulted in 10% sales and 15% user complaints due to the new updated website.
+-  Assisted towards developing a web application in ReactJS to test out effectiveness in digital-adoption platform (DAP) and determine feasibility for company customers on top of other applications such as SAP, Kronos, MS Dynamics and Valua.
+- Built 300+ lines of new React components in order to design a user-friendly globe-icon button the taskbar and implemented Material UI for a drop-down menu for language functionality through integrating dynamic programming
+- Created video demo that resulted in less user complaints on website.
