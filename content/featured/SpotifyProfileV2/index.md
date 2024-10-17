@@ -2,7 +2,7 @@
 date: '3'
 title: 'BoilerNetwork'
 cover: './project3.jpeg'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: '[https://www.newline.co/courses/build-a-spotify-connected-app](https://devpost.com/software/boilernetwork)'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - HTML
