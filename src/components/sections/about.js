@@ -141,11 +141,9 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
               <a href="hhttps://www.accenture.com/us-en">Accenture</a>, a huge corporation,{' '}
-              <a href="https://www.ziplyne.com/">Ziplyne</a>, a start-up,{' '}
-              <a href="https://projects.the-examples-book.com/projects/database-design/">
-                Indiana Soybean Alliance
-              </a>
-              , an agriculture company, and the{' '}
+              <a href="https://www.nasa.gov/">NASA</a>, the largest space agency,{' '}
+              <a href="https://jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>, a
+              nonprofit research center, and the{' '}
               <a href="https://njit.edu/">New Jersey Institute of Technology</a>. My main focus
               these days is building artificial intelligence-based applications, such as the recent
               startup I've been working on,{' '}
@@ -156,8 +154,8 @@ const About = () => {
             <p>
               I also recently was selected to work at{' '}
               <a href="https://engineering.purdue.edu/VIP/teams/ge-ai">GE Research</a> through
-              Purdue Vertically Integrated Projects, where I'll be working on implementing collision
-              avoidance, RL, and testing it on a real robot.
+              Purdue Vertically Integrated Projects, where I've implemented collision avoidance, RL
+              and tested that through the Franka Panda robot.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

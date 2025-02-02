@@ -1,12 +1,12 @@
 ---
 date: '2017-04-01'
-title: 'Research Intern'
-company: 'New Jersey Institute of Technology'
-location: 'Newark, NJ'
-range: 'Sep 2022 - June 2023'
-url: 'https://njit.edu/'
+title: 'Software Engineer Intern'
+company: 'Accenture'
+location: 'Greater Chicago Area'
+range: 'Nov 2023 - May 2024'
+url: 'https://accenture.com/'
 ---
 
-- Conducted extensive research on localization algorithms for sperm cells by developing image processing programs in Python to detect the movements of cells and calculate motility parameters with minimal operator intervention.
-- Utilized Python libraries such as OpenCV and NumPy for data visualization and accurately locating sperm locations.
-- Received research guidance from Dr. Ludvik Alkhoury and Professor Moshe Kim from the Department of Electrical and Computer Engineering with 4+ research papers on computer-assisted semen analysis and motility analysis of cells.
+- Worked on Data & Generative AI Infrastructure initiatves
+- Developed a text prediction LLM through BART, Llama 3.5, and GPT-4 models to predict business categories.
+- Integrated full-stack application onto servers to be used by internal / external clients to enhance process efficiency.

@@ -1,12 +1,12 @@
 ---
 date: '2016-12-21'
-title: 'Code Instructor'
-company: 'Code Ninjas'
+title: 'Software Engineer Intern'
+company: 'Ziplyne'
 location: 'Princeton, NJ'
-range: 'May 2022 - Aug 2023'
-url: 'https://www.codeninjas.com/'
+range: 'Feb 2023 - Oct 2023'
+url: 'https://www.ziplyne.com/'
 ---
 
-- Led classes of students ages 7-16 to learn rudimentary programming and engineering skills through Python and robotics.
-- Taught students game development courses in Scratch, JS, & Unity, and graded their projects with constructive feedback.
-- Coached and mentored FLL robotics team of 20+ individuals in building and testing robots: won several regional awards.
+- Worked on the Workday Backtesting Platform
+- Built React componeents through Material UI to improve language functionality and flow of digital-adoption platform (DAP).
+- Optimized REST API performance and gave a video demostration to clients that resulted in less user complaints

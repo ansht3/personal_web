@@ -15,6 +15,4 @@ tech:
   - SQLite
 ---
 
-Students can navigate through a list of professors and learn about their ongoing research projects. Expressing interest is straightforward; students provide their email address for professorial contact and have the option to provide a resume and additional comments (the resume is highly recommended). Once this information is provided and an interesting research opportunity is selected, BoilerNet condenses this information into a language model.
-
-This model integrates the student's resume, comments, and the chosen professor’s research to compose a personally tailored email expressing both enthusiasm and interest in the chosen research. This isn’t a final draft, however; it’s adaptable: the student can refine this draft to align with their unique voice and style before sending it off to the professor. To ensure transparency, students receive a copy of the sent email.
+BoilerNet helps students explore professors' research projects, express interest by submitting their email, resume, and comments, and generates a personalized, editable draft email that aligns with their voice before sending it to professors.
