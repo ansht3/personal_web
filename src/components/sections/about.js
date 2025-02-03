@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ansh Tandon and I'm a computer science major at Purdue University!
+              Hey there! My name is Ansh Tandon and I'm a computer science major at Purdue University!
             </p>
 
             <p>
@@ -152,7 +152,7 @@ const About = () => {
             </p>
 
             <p>
-              I also recently was selected to work at{' '}
+              I also was selected to work at{' '}
               <a href="https://engineering.purdue.edu/VIP/teams/ge-ai">GE Research</a> through
               Purdue Vertically Integrated Projects, where I've implemented collision avoidance, RL
               and tested that through the Franka Panda robot.
