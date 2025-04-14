@@ -1,7 +1,7 @@
 ---
 date: '2024-01-21'
 title: 'Budget Helper AI'
-github: 'https://github.com/Ansh2/budget-helper-ai/'
+github: 'https://github.com/ansht3/budget-helper-ai/'
 external: 'https://bhai-c8d92.web.app/#'
 tech:
   - React
