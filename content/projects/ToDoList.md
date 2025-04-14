@@ -1,7 +1,7 @@
 ---
 date: '2023-03-25'
 title: 'To-do List'
-github: 'https://github.com/Ansh2/To-Do-List'
+github: 'https://github.com/ansht3/To-Do-List'
 external: ''
 tech:
   - Javascript
