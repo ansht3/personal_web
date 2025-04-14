@@ -1,7 +1,7 @@
 ---
 date: '2023-11-25'
 title: 'Boiler Smart Contract'
-github: 'https://github.com/Ansh2/Boiler-Smart-Contract'
+github: 'https://github.com/ansht3/Boiler-Smart-Contract'
 external: ''
 tech:
   - NPM HardHat
