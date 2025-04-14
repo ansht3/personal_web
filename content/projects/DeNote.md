@@ -1,7 +1,7 @@
 ---
 date: '2022-09-25'
 title: 'DeNote'
-github: 'https://github.com/Ansh2/denote'
+github: 'https://github.com/ansht3/denote'
 external: 'https://denote-6it01ujpl-voomp1.vercel.app/'
 tech:
   - Typescript
