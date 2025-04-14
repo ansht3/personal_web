@@ -1,1 +1,4 @@
-anshtandon.com
+Type: CNAME
+Name: www
+Target: anshtandon.netlify.app
+TTL: default
