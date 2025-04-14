@@ -1,7 +1,7 @@
 ---
 date: '2023-10-15'
 title: 'FoodX_ML'
-github: 'https://github.com/Ansh2/FoodX-ML'
+github: 'https://github.com/ansht3/FoodX-ML'
 external: ''
 tech:
   - Python
