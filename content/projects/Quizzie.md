@@ -1,7 +1,7 @@
 ---
 date: '2023-09-01'
 title: 'Quizzie'
-github: 'https://github.com/Ansh2/quizzie'
+github: 'https://github.com/ansht3/quizzie'
 external: ''
 tech:
   - HTML
