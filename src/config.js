@@ -4,7 +4,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/AnshTandon2',
+      url: 'https://github.com/ansht3',
     },
     {
       name: 'Instagram',
