@@ -5,9 +5,9 @@ module.exports = {
     title: 'Ansh Tandon',
     description:
       'Software Engineer specializing in full-stack development, machine learning, and systems.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://anshtandon.com',
     image: '/og2.0.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@temp39',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
