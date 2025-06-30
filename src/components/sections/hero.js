@@ -65,18 +65,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I'm passionate about creating scalable, high-performance applications powered by the latest AI technologies. 
-      I specialize in full-stack development, machine learning, distributed systems, microservices, and cloud computing.
+        Scroll down to learn more about me!
       </p>
     </>
   );
   const five = (
     <a className="email-link" href="https://medium.com/@atandon149" target="_blank" rel="noreferrer">
-      Check out my blog!
+      Check out my blog
     </a>
   );
 
-  const items = [one, two, five];
+  const items = [one, two, four, five];
 
   return (
     <StyledHeroSection>
