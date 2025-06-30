@@ -7,6 +7,6 @@ range: ''
 url: 'https://tesla.com/'
 ---
 
-- Worked on the Vehicle Software Team
+- Vehicle Software Team
 - Built new features on an existing full-stack application in React, Python, and Flask.
 - Creating an MVP data tool to be used among Tesla engineers.
