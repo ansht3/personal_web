@@ -59,11 +59,11 @@ const Contact = () => {
 
       <h2 className="title">Get In Touch</h2>
 
-      <p>I am always on the lookout for new experiences, so feel free to reach out to me!</p>
+      <p>I am always on the lookout for new experiences, so feel free to reach out!</p>
 
-      <a className="email-link" href={`mailto:${email}`}>
+  {/*  <a className="email-link" href={`mailto:${email}`}>
         Say Hello
-      </a>
+      </a> */}
     </StyledContactSection>
   );
 };
