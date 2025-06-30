@@ -153,7 +153,7 @@ const About = () => {
               At school, I'm an officer for Purdue's{' '}
               <a href="https://ml-purdue.github.io/">Machine Learning Club</a>{' '} to organize
               events and semester-based projects. I was also selected to do research at{' '}
-              <a href="https://www.nasa.gov/">NASA</a>{' '}for the Artemis III mission.
+              <a href="https://www.nasa.gov/">NASA</a>{' '}for the Artemis III mission!
             </p>
 
             <p>Here are a few technologies I’ve worked with recently:</p>
