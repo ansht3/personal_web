@@ -140,24 +140,23 @@ const About = () => {
 
             <p>
               I am passionate about creating scalable and high-performance applications, with interests
-              in artificial intelligence, embedded system optimizations, and full stack development. 
+              in artificial intelligence, embedded systems, and full-stack development. 
               This past year, I had the opportunity to intern at{' '}
-              <a href="https://www.tesla.com">Tesla</a>{' '}on the Vehicle Software team to create 
-              applications to serve customers and internal engineers across the world.
-              I've had the privilege of building a variety of software ranging from 
-              Generative AI solutions in FAANG to AI automation for a Fortune Global 500 company 
-              and to embedded radar technologies at one of the nation's largest research laboratories.
+              <a href="https://www.tesla.com">Tesla</a>{' '}on Vehicle Software to develop 
+              applications serving thousands of customers and engineers across the world.
+              I've had the privilege of building a variety of software, ranging from 
+              Generative AI products in FAANG to AI Automation for a Fortune 500 company
+              and to radar systems at the nation's largest university research lab.
             </p>
 
             <p>
               At school, I'm an officer for Purdue's{' '}
               <a href="https://ml-purdue.github.io/">Machine Learning Club</a>{' '} to organize
-              events and semester-based projects. I was also selected to do research at 
-              <a href="https://www.nasa.gov/">NASA</a> to create a concept Lunar Rover for the Artemis III
-              mission.
+              events and semester-based projects. I was also selected to do research at{' '}
+              <a href="https://www.nasa.gov/">NASA</a>{' '}for the Artemis III mission.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve worked with recently:</p>
           </div>
 
           <ul className="skills-list">
