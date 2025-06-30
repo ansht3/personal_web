@@ -61,7 +61,7 @@ const Contact = () => {
 
       <p>I am always on the lookout for new experiences, so feel free to reach out!</p>
 
-      <a className="email-link" href="https://linkedin.com/in/ansh-t">
+      <a className="email-link" href="https://linkedin.com/in/ansh-t" target="_blank">
         Say Hello
       </a>
     </StyledContactSection>
