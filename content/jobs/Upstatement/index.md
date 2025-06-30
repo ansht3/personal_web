@@ -1,12 +1,12 @@
 ---
 date: '2018-05-14'
-title: 'Research'
-company: 'NASA'
-location: 'Remote'
-range: '2024 - 2024'
-url: 'https://www.nasa.gov/'
+title: 'Software Engineer Intern'
+company: 'Tesla'
+location: 'Palo Alto, CA'
+range: ''
+url: 'https://tesla.com/'
 ---
 
-- Worked on the Artemis III Mission
-- Designed for a autonomus lunar rover with a modular design + Python / C++ based architecture.
-- Developed a deep learning model in YOLOv8 for real-time detection of objects and enhanced feature extraction to improve model performance
+- Worked on the Vehicle Software Team
+- Built new features on an existing full-stack application in React, Python, and Flask.
+- Creating an MVP data tool to be used among Tesla engineers.
