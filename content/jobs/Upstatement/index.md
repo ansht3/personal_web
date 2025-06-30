@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
-title: 'Software Engineer Researcher'
+title: 'Research'
 company: 'NASA'
-location: 'Tempe, AZ (Remote)'
-range: 'May 2024 - Sep 2024'
+location: 'Remote'
+range: '2024 - 2024'
 url: 'https://www.nasa.gov/'
 ---
 
