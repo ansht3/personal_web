@@ -3,7 +3,7 @@ date: '2016-12-21'
 title: 'Software Engineer Intern'
 company: 'Ziplyne'
 location: 'Princeton, NJ'
-range: 'Feb 2023 - Oct 2023'
+range: 'Feb 2023 - Jul 2023'
 url: 'https://www.ziplyne.com/'
 ---
 
