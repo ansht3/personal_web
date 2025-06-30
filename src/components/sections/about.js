@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! My name is Ansh Tandon and I'm a computer science major at Purdue University!
+              I'm a junior studying Computer Science at Purdue University!
             </p>
 
             <p>
