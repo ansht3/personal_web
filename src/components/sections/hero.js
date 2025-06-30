@@ -71,12 +71,12 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a className="email-link" href="https://linktr.ee/ansh_t" target="_blank" rel="noreferrer">
-      Check out my linktree!
+    <a className="email-link" href="https://medium.com/@atandon149" target="_blank" rel="noreferrer">
+      Check out my blog!
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, five];
 
   return (
     <StyledHeroSection>
