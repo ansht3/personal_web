@@ -7,20 +7,12 @@ module.exports = {
       url: 'https://github.com/ansht3',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/ansh_tandon06',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/atan148',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ansh-t',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/',
     },
   ],
 
