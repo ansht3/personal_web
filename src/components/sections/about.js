@@ -143,7 +143,7 @@ const About = () => {
               in artificial intelligence, embedded systems, and full-stack development. 
               This past year, I had the opportunity to intern at{' '}
               <a href="https://www.tesla.com">Tesla</a>{' '}on Vehicle Software to develop 
-              applications serving thousands of customers and engineers across the world.
+              applications serving thousands of customers and internal engineers across the world.
               I've had the privilege of building a variety of software, ranging from 
               Generative AI products in FAANG to AI Automation for a Fortune 500 company
               and to radar systems at the nation's largest university research lab.
