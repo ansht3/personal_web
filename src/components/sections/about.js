@@ -139,23 +139,22 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="hhttps://www.accenture.com/us-en">Accenture</a>, a huge corporation,{' '}
-              <a href="https://www.nasa.gov/">NASA</a>, the largest space agency,{' '}
-              <a href="https://jhuapl.edu/">Johns Hopkins Applied Physics Laboratory</a>, a
-              nonprofit research center, and the{' '}
-              <a href="https://njit.edu/">New Jersey Institute of Technology</a>. My main focus
-              these days is building artificial intelligence-based applications, such as the recent
-              startup I've been working on,{' '}
-              <a href="https://github.com/disha101003/wisebucks.ai">Wisebucks.AI</a>, a stock
-              portfolio predictor and paper-trading application.
+              I am passionate about creating scalable and high-performance applications, with interests
+              in artificial intelligence, embedded system optimizations, and full stack development. 
+              This past year, I had the opportunity to intern at{' '}
+              <a href="https://www.tesla.com">Tesla</a>{' '}on the Vehicle Software team to create 
+              applications to serve customers and internal engineers across the world.
+              I've had the privilege of building a variety of software ranging from 
+              Generative AI solutions in FAANG to AI automation for a Fortune Global 500 company 
+              and to embedded radar technologies at one of the nation's largest research laboratories.
             </p>
 
             <p>
-              I also was selected to work at{' '}
-              <a href="https://engineering.purdue.edu/VIP/teams/ge-ai">GE Research</a> through
-              Purdue Vertically Integrated Projects, where I've implemented collision avoidance, RL
-              and tested that through the Franka Panda robot.
+              At school, I'm an officer for Purdue's{' '}
+              <a href="https://ml-purdue.github.io/">Machine Learning Club</a>{' '} to organize
+              events and semester-based projects. I was also selected to do research at 
+              <a href="https://www.nasa.gov/">NASA</a> to create a concept Lunar Rover for the Artemis III
+              mission.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
