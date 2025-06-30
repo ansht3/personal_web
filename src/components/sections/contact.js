@@ -61,9 +61,9 @@ const Contact = () => {
 
       <p>I am always on the lookout for new experiences, so feel free to reach out!</p>
 
-  {/*  <a className="email-link" href={`mailto:${email}`}>
+      <a className="email-link" href="https://linkedin.com/in/ansh-t">
         Say Hello
-      </a> */}
+      </a>
     </StyledContactSection>
   );
 };
