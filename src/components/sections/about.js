@@ -145,8 +145,8 @@ const About = () => {
               an AI agent to automate approval workflows within a supply chain platform supporting 
               300+ employees across several countries. During the spring semester, I interned at{' '}<a href="https://www.tesla.com">Tesla</a>{' '}in 
               Vehicle Software, where I developed a backend microservice to handle millions of vehicle signals, 
-              serving thousands of internal engineers. I've also worked in systems programming and radar processing optimizations at the 
-              <a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>. 
+              serving thousands of internal engineers. I've also worked in systems programming and radar processing optimizations at 
+              the{' '}<a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>{' '}. 
               Throughout my internships, I've built generative AI products, distributed services, data processing pipelines, 
               and full-stack applications.
             </p>
