@@ -1,12 +1,12 @@
 ---
 date: '2018-05-14'
 title: 'Software Engineer Intern'
-company: 'Tesla'
-location: 'Palo Alto, CA'
-range: ''
-url: 'https://tesla.com/'
+company: 'Apple'
+location: 'Austin, TX'
+range: 'June 2025 - August 2025'
+url: 'https://apple.com/'
 ---
 
-- Vehicle Software Team
-- Built new features on an existing full-stack application in React, Python, and Flask.
-- Creating an MVP data tool to be used among Tesla engineers.
+- Developed an AI agent to automate existing workflows in an internal tool to dynamically generate UIs with prompts.
+- Integrated a RAG chatbot with fine-tuning foundational LLM model and 112+ data files to answer questions regarding an operations platform.
+- Refactored user interfaces in TypeScript and Java to streamline task flows. 
