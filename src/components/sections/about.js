@@ -139,21 +139,26 @@ const About = () => {
             </p>
 
             <p>
-              I am passionate about creating scalable and high-performance applications, with interests
-              in artificial intelligence, embedded systems, and full-stack development. 
-              This past year, I had the opportunity to intern at{' '}
-              <a href="https://www.tesla.com">Tesla</a>{' '}on Vehicle Software to develop 
-              applications serving thousands of customers and internal engineers across the world.
-              I've had the privilege of building a variety of software, ranging from 
-              Generative AI products in FAANG to AI Automation for a Fortune 500 company
-              and to radar systems at the nation's largest university research lab.
+              I am passionate about creating scalable full-stack applications and high-performance systems. 
+              My current interests span applied AI, large-scale infrastructure, and distributed systems. 
+              This past summer, I worked at <a href="https://www.apple.com">Apple</a> in the Production Ops team, building
+              an AI agent to automate approval workflows within a supply chain platform supporting 
+              300+ employees across 7 countries. During the spring semester, I interned at 
+              <a href="https://www.tesla.com">Tesla</a> in Vehicle Software, where I developed 
+              distributed backend microservices handling millions of telemetry signals and alerts, 
+              serving thousands of customers and internal engineers globally. I've also worked in 
+              systems programming and radar processing optimization at the 
+              <a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>, 
+              the nation’s largest university research lab. Throughout my internships, I've built 
+              generative AI products, production-grade distributed services, and real-time 
+              data processing pipelines.
             </p>
 
             <p>
               At school, I'm an officer for Purdue's{' '}
               <a href="https://ml-purdue.github.io/">Machine Learning Club</a>{' '} to organize
-              events and semester-based projects. I was also selected to do research at{' '}
-              <a href="https://www.nasa.gov/">NASA</a>{' '}for the Artemis III mission!
+              events and semester-based projects. I was also selected to do Systems Research at{' '}
+              <a href="https://www.nasa.gov/">NASA</a>{' '} for the Artemis III mission!
             </p>
 
             <p>Here are a few technologies I’ve worked with recently:</p>
