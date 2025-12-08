@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
+date: '2017-04-01'
 title: 'Software Engineer Intern'
-company: 'Ziplyne'
-location: 'Princeton, NJ'
-range: 'Feb 2023 - Jul 2023'
-url: 'https://www.ziplyne.com/'
+company: 'Accenture'
+location: 'West Lafayette, IN'
+range: 'Nov 2023 - May 2024'
+url: 'https://accenture.com/'
 ---
 
-- Worked on the Workday Backtesting Platform
-- Built React componeents through Material UI to improve language functionality and flow of digital-adoption platform (DAP).
-- Optimized REST API performance and gave a video demostration to clients that resulted in less user complaints
+- Worked on Data & Generative AI Infrastructure initiatves
+- Developed a text prediction LLM through BART, Llama 3.5, and GPT-4 models to predict business categories.
+- Integrated full-stack application onto servers to be used by internal / external clients to enhance process efficiency.
