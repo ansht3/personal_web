@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Software Engineer Intern'
 company: 'Tesla'
 location: 'Palo Alto, CA'
-range: 'Jan 2025 - May 2026'
+range: 'Jan 2025 - May 2025'
 url: 'https://tesla.com/'
 ---
 
