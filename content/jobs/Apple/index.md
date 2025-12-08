@@ -1,12 +1,12 @@
 ---
-date: '2017-12-21'
+date: '2018-05-14'
 title: 'Software Engineer Intern'
-company: 'Johns Hopkins APL'
-location: 'Laurel, MD'
-range: 'May 2024 - Aug 2024'
-url: 'https://www.jhuapl.edu/'
+company: 'Tesla'
+location: 'Palo Alto, CA'
+range: 'Jan 2025 - May 2026'
+url: 'https://tesla.com/'
 ---
 
-- Worked on A2E Embedded Systems
-- Built multithreaded C++ & Python simulation & database features used by researchers.
-- Developed GUI tools to enable JHUAPL to interact with lab hardware to derive further insights.
+- Vehicle Software - Service Engineering Team
+- Developed a backend microservice to handle millions of vehicle signals,serving thousands of internal engineers
+- Built new features on an existing full-stack application in React, Python, and Flask
