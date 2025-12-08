@@ -1,12 +1,12 @@
 ---
-date: '2017-04-01'
+date: '2017-12-21'
 title: 'Software Engineer Intern'
-company: 'Accenture'
-location: 'Greater Chicago Area'
-range: 'Nov 2023 - May 2024'
-url: 'https://accenture.com/'
+company: 'Johns Hopkins APL'
+location: 'Laurel, MD'
+range: 'May 2024 - Aug 2024'
+url: 'https://www.jhuapl.edu/'
 ---
 
-- Worked on Data & Generative AI Infrastructure initiatves
-- Developed a text prediction LLM through BART, Llama 3.5, and GPT-4 models to predict business categories.
-- Integrated full-stack application onto servers to be used by internal / external clients to enhance process efficiency.
+- Worked on A2E Embedded Systems
+- Built multithreaded C++ & Python simulation & database features used by researchers.
+- Developed GUI tools to enable JHUAPL to interact with lab hardware to derive further insights.
