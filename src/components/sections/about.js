@@ -141,11 +141,9 @@ const About = () => {
             <p>
               I am passionate about creating scalable applications and high-performance systems. 
               My current interests span applied AI, distributed systems, and ML infrastructure.
-              This past summer, I worked at{' '}<a href="https://www.apple.com">Apple</a>{' '}in the Production Ops team, building
-              an AI agent to automate approval workflows within a supply chain platform supporting 
-              300+ employees across several countries. During the spring semester, I interned at{' '}<a href="https://www.tesla.com">Tesla</a>{' '}in 
-              Vehicle Software, where I developed a backend microservice to handle millions of vehicle signals, 
-              serving thousands of internal engineers. I've also worked in systems programming and radar processing optimizations at 
+              This past summer, I worked on integrating generative AI products at{' '}<a href="https://www.apple.com">Apple</a>{' '}in 
+              the Production Ops team, and during the spring semester, I interned at{' '}<a href="https://www.tesla.com">Tesla</a>{' '}in 
+              Vehicle Software, building tools and services for thousands of internal engineers. I've also worked in systems programming and radar processing optimizations at 
               the{' '}<a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>{' '}. 
               Throughout my internships, I've built generative AI products, distributed services, data processing pipelines, 
               and full-stack applications.
