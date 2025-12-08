@@ -68,7 +68,11 @@ const Head = ({ title, description, image }) => {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-EWQ8KHME4K');
+          gtag('config', 'G-EWQ8KHME4K', {
+            send_page_view: true,
+            page_location: window.location.href,
+            page_referrer: document.referrer
+          });
         `}
       </script>
   
