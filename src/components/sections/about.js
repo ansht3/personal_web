@@ -139,19 +139,16 @@ const About = () => {
             </p>
 
             <p>
-              I am passionate about creating scalable full-stack applications and high-performance systems. 
-              My current interests span applied AI, large-scale infrastructure, and distributed systems. 
-              This past summer, I worked at <a href="https://www.apple.com">Apple</a> in the Production Ops team, building
+              I am passionate about creating scalable applications and high-performance systems. 
+              My current interests span applied AI, distributed systems, and ML infrastructure.
+              This past summer, I worked at{' '}<a href="https://www.apple.com">Apple</a>{' '}in the Production Ops team, building
               an AI agent to automate approval workflows within a supply chain platform supporting 
-              300+ employees across 7 countries. During the spring semester, I interned at 
-              <a href="https://www.tesla.com">Tesla</a> in Vehicle Software, where I developed 
-              distributed backend microservices handling millions of telemetry signals and alerts, 
-              serving thousands of customers and internal engineers globally. I've also worked in 
-              systems programming and radar processing optimization at the 
-              <a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>, 
-              the nation’s largest university research lab. Throughout my internships, I've built 
-              generative AI products, production-grade distributed services, and real-time 
-              data processing pipelines.
+              300+ employees across several countries. During the spring semester, I interned at{' '}<a href="https://www.tesla.com">Tesla</a>{' '}in 
+              Vehicle Software, where I developed a backend microservice to handle millions of vehicle signals, 
+              serving thousands of internal engineers. I've also worked in systems programming and radar processing optimizations at the 
+              <a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>. 
+              Throughout my internships, I've built generative AI products, distributed services, data processing pipelines, 
+              and full-stack applications.
             </p>
 
             <p>
