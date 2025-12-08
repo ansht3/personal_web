@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Computer Vision Research Intern'
-company: 'New Jersey Institute of Technology'
-location: 'Newark, NJ'
-range: 'Sep 2022 - Jan 2023'
-url: 'https://njit.edu/'
+date: '2016-12-21'
+title: 'Software Engineer Intern'
+company: 'Ziplyne'
+location: 'Princeton, NJ'
+range: 'Feb 2023 - Jul 2023'
+url: 'https://www.ziplyne.com/'
 ---
 
-- Worked under the ECE Data Fusion Lab
-- Conducted extensive research on localization algorithms for cells by developing image processing programs in Python.
-- Calculate different health parameters with minimal operator intervention, and utilize OpenCV for data visualization for accurately locating sperm locations.
+- Worked on the Workday Backtesting Platform
+- Built React componeents through Material UI to improve language functionality and flow of digital-adoption platform (DAP).
