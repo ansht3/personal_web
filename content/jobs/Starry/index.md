@@ -6,7 +6,6 @@ location: 'West Lafayette, IN'
 range: 'Nov 2023 - May 2024'
 url: 'https://accenture.com/'
 ---
-
-- Worked on Data & Generative AI Infrastructure initiatves
-- Developed a text prediction LLM through BART, Llama 3.5, and GPT-4 models to predict business categories.
+- Worked on Data & Generative AI Infrastructure initiatives
+- Developed an AI automation to predict business categories with Llama-2 and GPT-4.
 - Integrated full-stack application onto servers to be used by internal / external clients to enhance process efficiency.
