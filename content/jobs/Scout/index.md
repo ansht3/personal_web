@@ -8,5 +8,5 @@ url: 'https://www.jhuapl.edu/'
 ---
 
 - Worked on A2E Embedded Systems
-- Built multithreaded C++ & Python simulation & database features used by researchers.
-- Developed GUI tools to enable JHUAPL to interact with lab hardware to derive further insights.
+- Built multithreaded C++ simulation & database features used by researchers.
+- tilized Boost Threads and HDF5 to increase visualization speed for binary sensor data.
