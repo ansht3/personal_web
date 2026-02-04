@@ -8,5 +8,5 @@ url: 'https://tesla.com/'
 ---
 
 - Vehicle Software Team
-- Developed a backend microservice to handle millions of vehicle signals, serving thousands of internal engineers.
-- Built new features on an existing full-stack application in React, Python, and Flask.
+- Developed backend infrastructure and services used for vehicle telemetry validation and internal engineering workflows for 800+ engineers.
+- Shipped a microservice pipeline into Docker containers and deployed into production environment with Kubernetes.
