@@ -5,11 +5,13 @@ cover: './project1.png'
 github: 'https://github.com/disha101003/wisebucks.ai'
 external: 'https://dagshub.com/ML-Purdue/wisebucks.ai'
 tech:
-  - PyCharm
+  - Python
+  - Flask
+  - REST APIs
+  - MySQL
   - Sentiment Analysis
-  - Long Short Term Memory (LSTM) Neural Network
-  - Monte Carlo Method
-  - Django
+  - LSTM / Monte Carlo
+  - AWS Bedrock
 ---
 
-An integrated paper-trading and portfolio generation application that does sentiment analysis through current news related to stocks, historical stock price analysis, and financial ratios (price-to-earnings. PEG, & debt-to-equity)! Utilized LSTMs and Monte Carlo to predict future price stocks for up to one week accurately and have received VC funding.
+A $6K funded paper-trading and portfolio simulation platform that combines market data with AI driven insights and historical stock analysis with financial ratios. I built backend REST APIs to support sentiment scoring for the top 10 news outlets and a backtesting platform for reliably data-based strategies provided.
