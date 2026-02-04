@@ -4,6 +4,7 @@ title: 'WWPHacks'
 cover: './project2.png'
 github: 'https://github.com/ansht3/wwphacks.github.io/'
 external: 'https://wwphacks22.github.io/wwphacks.github.io/'
+cta: 'View Project'
 tech:
   - JavaScript
   - React
