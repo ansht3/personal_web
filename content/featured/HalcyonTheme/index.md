@@ -3,7 +3,7 @@ date: '1'
 title: 'Wisebucks.AI'
 cover: './project1.png'
 github: 'https://github.com/disha101003/wisebucks.ai'
-cta: 'https://dagshub.com/ML-Purdue/wisebucks.ai'
+external: 'https://dagshub.com/ML-Purdue/wisebucks.ai'
 tech:
   - Python
   - Flask
