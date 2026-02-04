@@ -8,4 +8,5 @@ url: 'https://www.ziplyne.com/'
 ---
 
 - Worked on the Workday Backtesting Platform
-- Built React componeents through Material UI to improve language functionality and flow of digital-adoption platform (DAP).
+- Optimized Go APIs on GCP Cloud Run with transactional SQL writes, reducing request parsing latency by 32%.
+- Led security reviews with SRE to mitigate vulnerabilities in upgraded backend infrastructure.
