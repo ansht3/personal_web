@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Lunar Rover Software (NASA Research)'
 cover: './project3.png'
 github: 'https://github.com/ansht3'
