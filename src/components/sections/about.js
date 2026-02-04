@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C++', 'Python', 'Java', 'JavaScript / TypeScript', 'Go', 'Docker / Kubernetes', 'AWS / GCP', 'SQL'];
+  const skills = ['C++', 'Python', 'Java', 'TypeScript', 'Go', 'Docker / Kubernetes', 'AWS / GCP', 'SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,7 +143,7 @@ const About = () => {
               My current interests span distributed systems, data pipelines, and backend performance.
               This past summer, I worked on production workflows and distributed services at{' '}<a href="https://www.apple.com">Apple</a>{' '}in 
               the Production Ops team, and during the spring semester, I interned at{' '}<a href="https://www.tesla.com">Tesla</a>{' '}in 
-              Vehicle Software, building tools and services for thousands of internal engineers. I've also worked in systems programming at{' '}<a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>{' '}, where
+              Vehicle Software, building tools and services for thousands of internal engineers. I've also worked in systems programming and parallel programming at{' '}<a href="https://www.jhuapl.edu/">Johns Hopkins University Applied Physics Lab</a>{''}, where
               I built multithreaded C++ pipelines to optimize sensor processing. Throughout my internships, I've built distributed services, data processing pipelines, 
               and large-scale applications.
             </p>
@@ -151,7 +151,7 @@ const About = () => {
             <p>
               At school, I'm an officer for Purdue's{' '}
               <a href="https://ml-purdue.github.io/">ML Club</a>{' '} to organize
-              events and semester-based projects and am a Teaching Assistant for{' '}<a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html">CS 252 - Systems Programming</a>{' '}. 
+              events and semester-based projects and am a Teaching Assistant for{' '}<a href="https://www.cs.purdue.edu/academic-programs/courses/canonical/cs252.html">CS 252 - Systems Programming</a>{''}. 
               I was also selected to do research in Systems Data Handling at{' '}
               <a href="https://www.nasa.gov/">NASA</a>{' '} for the Artemis III mission!
             </p>
