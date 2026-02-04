@@ -4,6 +4,7 @@ title: 'Wisebucks.AI'
 cover: './project1.png'
 github: 'https://github.com/disha101003/wisebucks.ai'
 external: 'https://dagshub.com/ML-Purdue/wisebucks.ai'
+cta: 'View Project'
 tech:
   - Python
   - Flask
